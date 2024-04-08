@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=signocreator&label=Profile%20views&color=0e75b6&style=flat" alt="signocreator" /> </p>
 
-- 🔭 I’m currently working on EdGen project
+- 🔭 I’m currently working on a Instructions Set Architecture
   
 - 🔭 I’m currently studying Computer Science at Genoa University
 
