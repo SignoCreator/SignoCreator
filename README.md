@@ -2,12 +2,8 @@
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=signocreator&label=Profile%20views&color=0e75b6&style=flat" alt="signocreator" /> </p>
-
-- 🔭 I’m currently working on VR game.
   
 - 🔭 I’m currently studying Computer Science at Genoa University
-
-- 🌱 I’m currently learning **VR**
 
 - 👨‍💻 My projects are available at [https://github.com/SignoCreator](https://github.com/SignoCreator)
 
