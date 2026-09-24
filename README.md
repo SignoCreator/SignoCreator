@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Genoa, building full-stack products and machine-learning tools. I've shipped production backends in Python, C# and Go, web front ends in React, and native apps in Swift and Flutter. Open to internships and hackathon teams.
 
-📫 signosignodiego@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
+📫 signosignodiego@gmail.com · [LinkedIn](https://www.linkedin.com/in/diego-signorastri/)
 
 ## Featured projects
 
