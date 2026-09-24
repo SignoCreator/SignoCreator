@@ -21,12 +21,17 @@ Built most of a rule-based decision service (Python, FastAPI, PostgreSQL, 27k li
 
 ## Stack
 
-**Languages:** Python · TypeScript · C# · Go · Swift · C / C++ · Java · Dart · SQL
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,ts,cs,go,swift,c,cpp,java,dart&perline=9" alt="Python, TypeScript, C#, Go, Swift, C, C++, Java, Dart" />
 
-**Backend:** FastAPI · ASP.NET Core (.NET 9, EF Core) · NestJS · Go (chi) · Flask · PostgreSQL · Prisma
+**Backend & databases**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,nestjs,flask,postgres,prisma&perline=9" alt="FastAPI, .NET, NestJS, Flask, PostgreSQL, Prisma" />
 
-**Frontend & mobile:** React · SolidJS · Tailwind CSS · Vite · SwiftUI · Flutter
+**Frontend & mobile**<br>
+<img src="https://skillicons.dev/icons?i=react,solidjs,threejs,tailwind,vite,flutter&perline=9" alt="React, SolidJS, Three.js, Tailwind CSS, Vite, Flutter" />
 
-**ML & data:** TensorFlow / Keras · scikit-learn · XGBoost · pandas · NumPy · SciPy · OpenCV
+**ML & data**<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&perline=9" alt="TensorFlow, scikit-learn, OpenCV" /> &nbsp; also XGBoost, pandas, NumPy, SciPy
 
-**Tools:** Git · GitHub Actions · Docker · pytest · Vitest · Playwright · Linux
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,vitest,linux&perline=9" alt="Git, GitHub Actions, Docker, Vitest, Linux" />
